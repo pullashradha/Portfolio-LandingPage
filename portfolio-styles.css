@@ -13,6 +13,10 @@ body {
   padding-bottom: 150px;
 }
 
+.row {
+  padding: 50px;
+}
+
 .img-fluid {
   max-width: 100%;
   height: auto;
