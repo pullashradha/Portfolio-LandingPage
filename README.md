@@ -10,9 +10,9 @@ _This website will serve as an online portfolio for the developer. It has separa
 
 ## Setup/Installation Requirements
 
-_Clone this repository_
-_Download Bootstrap, CSS and/or Font Awesome as needed_
-_Open index.html in Terminal_
+*_Clone this repository_
+*_Download Bootstrap, CSS and/or Font Awesome as needed_
+*_Open index.html in Terminal_
 
 ## Known Bugs
 
@@ -24,10 +24,10 @@ _Contact Epicodus for support in running this program._
 
 ## Technologies Used
 
-_HTML
-_CSS
-_Bootstrap
-_Font Awesome
+*_HTML_
+*_CSS_
+*_Bootstrap_
+*_Font Awesome_
 
 ### License
 
