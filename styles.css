@@ -11,11 +11,24 @@ body {
   text-align: center;
 }
 
+.content {
+  padding: 20px;
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-bottom: 150px;
+}
+
 .row {
   padding: 50px;
 }
 
-h1, h2 {
+h1, h2, p {
   text-align: center;
-  color: green;
+}
+
+.img-icon {
+  border-radius: 50%;
+  height: 50%;
+  width: 50%;
+  float: right;
 }
