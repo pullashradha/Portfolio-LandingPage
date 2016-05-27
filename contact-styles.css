@@ -1,0 +1,14 @@
+body {
+  font-family: serif;
+}
+
+.nav {
+  font-size: 20px;
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+  padding: 0px;
+  padding-bottom: 60px;
+}

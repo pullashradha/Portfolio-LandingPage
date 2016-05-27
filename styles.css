@@ -1,3 +1,24 @@
+body {
+  font-family: serif;
+}
+
+.nav {
+  font-size: 20px;
+}
+
 #mycarousel {
+  padding: 300px;
+  text-align: center;
+}
+
+.row {
   padding: 50px;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+h1 {
+
 }

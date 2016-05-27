@@ -1,4 +1,12 @@
-.person{
+body {
+  font-family: serif;
+}
+
+.nav {
+  font-size: 20px;
+}
+
+.person {
   width: 27%;
   float: left;
   margin-left: 1%;
@@ -7,21 +15,20 @@
   border-right: solid black;
   height: 600px;
   padding: 20px;
-
 }
 
 h1{
   text-align: center;
 }
 
-.education{
+.education {
   color:red;
 }
 
-.experience{
+.experience {
   color:blue;
 }
 
-.skills{
+.skills {
   color:green;
 }

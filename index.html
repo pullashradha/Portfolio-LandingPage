@@ -7,15 +7,15 @@
   </head>
   <body>
 <!--Nav Start-->
-    <div>
-      <nav class="navbar navbar-inverse">
+    <div class="nav">
+      <nav class="navbar navbar-inverse navbar-fixed-top">
       <div class="container">
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand text-muted" href="#">Shradha Pulla</a>
+        <a class="navbar-brand text-muted" href="aboutme.html">Shradha Pulla</a>
         <div class="collapse navbar-collapse">
           <ul class="nav navbar-nav navbar-right">
             <li class="active"><a href="index.html">Home</a></li>
@@ -28,39 +28,43 @@
     </div>
 <!--Nav End-->
 <!--Carousel Start-->
-    <div id="mycarousel" class="carousel slide jumbotron">
+    <div id="myCarousel" class="carousel slide">
       <div class="container">
         <ol class="carousel-indicators">
-          <li class="active" data-target="#mycarousel" data-slide-to="0"></li>
-          <li data-target="#mycarousel" data-slide-to="1"></li>
-          <li data-target="#mycarousel" data-slide-to="2"></li>
-          <li data-target="#mycarousel" data-slide-to="3"></li>
+          <li class="active" data-target="#myCarousel" data-slide-to="0"></li>
+          <li data-target="#myCarousel" data-slide-to="1"></li>
+          <li data-target="#myCarousel" data-slide-to="2"></li>
+          <li data-target="#myCarousel" data-slide-to="3"></li>
         </ol>
         <div class="carousel-inner">
           <div class="item active">
             <h1 class="jumbo">Animal Shelter</h1>
+            <img src="img/animal-shelter.jpg" alt="Picture of dogs and cats sitting next to each other">
           </div>
           <div class="item">
             <h1 class="jumbo">Private Resort</h1>
+            <img src="img/resort.jpg" alt="A picture of a beach-side resort building."/>
           </div>
           <div class="item">
             <h1 class="jumbo">Cupcake Central</h1>
+            <img src="img/cupcake.jpg" alt="A picture of a display of cupcakes." />
           </div>
           <div class="item">
-            <h1 class="jumbo">Blog</h1>
+            <h1 class="jumbo">Interior Decorator</h1>
+            <img src="img/interior.jpg" alt="A picture of a well-designed room."/>
           </div>
         </div>
       </div>
-      <a class="left carousel-control" href="#mycarousel" role="button" data-slide="prev"><span class="icon-prev"></span>
+      <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev"><span class="icon-prev"></span>
       </a>
-      <a class="right carousel-control" href="#mycarousel" role="button" data-slide="next"><span class="icon-next"></span>
+      <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next"><span class="icon-next"></span>
       </a>
     </div>
 <!--Carousel End-->
 <!--Columns Start-->
     <div class="row">
       <div class="col-sm-7">
-        <h2><a href="aboutme.html"><strong>About Me</strong></a></h2>
+        <h1><a href="aboutme.html"><strong>About Me</strong></a></h1>
         <p>My background: education, work experience, why did I decide to enroll in Epicodus/why programming? My current interests, hobbies and skills?</p>
       </div>
       <div class="col-sm-3">
@@ -68,7 +72,7 @@
         <p>Link to a separate page with my online resume, which includes a downloadable PDF file.</p>
       </div>
       <div class="col-sm-2">
-        <h3><em>Connect with Me</em></h3>
+        <h2>Connect</h2>
         <p>Link to my LinkedIn profile, and possibly others too, make little icons for each one.</p>
       </div>
     </div>
