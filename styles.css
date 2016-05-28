@@ -16,14 +16,11 @@ body {
   padding-left: 80px;
   padding-right: 80px;
   padding-bottom: 150px;
+  text-align: center;
 }
 
 .row {
   padding: 50px;
-}
-
-h1, h2, p {
-  text-align: center;
 }
 
 h1 {
