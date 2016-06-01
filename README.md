@@ -29,6 +29,11 @@ Contact Epicodus for support in running this program.
 * Bootstrap
 * Font Awesome
 
+## Links
+
+General Website: http://pullashradha.github.io/Portfolio-LandingPage/
+GitHub Repository: https://github.com/pullashradha/Portfolio-LandingPage 
+
 ### License
 
 *This software is licensed under the GPL license.*
