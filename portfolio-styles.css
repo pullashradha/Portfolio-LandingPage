@@ -26,15 +26,19 @@ body {
 
 .icon-left {
   border-radius: 50%;
-  height: 50%;
-  width: 50%;
+  height: 250px;
+  width: 300px;
   float: left;
 }
 
 .icon-right {
   border-radius: 50%;
-  height: 50%;
-  width: 50%;
+  height: 250px;
+  width: 300px;
+  float: right;
+}
+
+.text-right {
   float: right;
 }
 
