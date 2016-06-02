@@ -6,9 +6,8 @@ body {
   font-size: 20px;
 }
 
-#mycarousel {
-  padding: 300px;
-  text-align: center;
+#myCarousel {
+  background-color: #777;
 }
 
 .content {
