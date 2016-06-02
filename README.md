@@ -32,7 +32,6 @@ Contact Epicodus for support in running this program.
 ## Links
 
 General Website: http://pullashradha.github.io/Portfolio-LandingPage/
-GitHub Repository: https://github.com/pullashradha/Portfolio-LandingPage 
 
 ### License
 
