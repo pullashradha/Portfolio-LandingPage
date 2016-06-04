@@ -15,48 +15,33 @@ body {
   color: #000000;
 }
 
-.img-fluid {
-  max-width: 100%;
-  height: auto;
-  padding: 0px;
-  padding-bottom: 60px;
-}
-
 .icon-left {
-  border-radius: 50%;
-  height: 250px;
-  width: 300px;
-  float: left;
+  width: 100%;
+  height: auto;
 }
 
 .icon-right {
-  border-radius: 50%;
-  height: 250px;
-  width: 300px;
-  float: right;
-}
-
-.text-right {
-  float: right;
+  width: 100%;
+  height: auto;
 }
 
 #table {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  border-collapse: separate;
   border-spacing: 50px 0;
-  width: 65%;
+  width: 100%;
+  height: auto;
+  margin-bottom: 80px;
+  text-align: center;
 }
 
 h1 {
   text-align: center;
   font-size: 75pt;
+  padding-top: 150px;
 }
 
 p {
   font-size: 13pt;
   padding-top: 30px;
-  padding-bottom: 40px;
+  padding-bottom: 50px;
   text-align: center;
 }
