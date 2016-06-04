@@ -31,15 +31,31 @@
     </nav>
     </div>
 <!--Nav End-->
-<!--Contact Form Start-->
+<!--Form Start-->
     <img src="img/zebras.jpg" alt="Picture of zebras grazing at sunset." class="img-fluid"/>
     <div class="form">
       <div class="container">
-        <form class="" action="index.html" method="post" role="form">
-          <div class="form-group">
-            <label for="name">Name</label>
-            <input type="text" class="form-control" id="name" name="name"/>
-          </div>
+        <form id="content">
+<!-- Name Table Start -->
+          <table id="table">
+            <tr>
+              <td id="first">
+                <div class="form-group">
+                  <label for="first-name">
+                    <span id="name-padding">First Name</span><input id="first-name" class="form-control" type="text">
+                  </label>
+                </div>
+              </td>
+              <td>
+                <div class="form-group">
+                  <label for="last-name">
+                    <span id="name-padding">Last Name</span><input id="last-name" class="form-control" type="text">
+                  </label>
+                </div>
+              </td>
+            </tr>
+          </table>
+<!-- Name Table End -->
           <div class="form-group">
             <label for="email">Email</label>
             <input type="email" class="form-control" id="email" name="email"/>
@@ -52,7 +68,7 @@
         </form>
       </div>
     </div>
-<!--Contact Form End-->
+<!--Form End-->
 <!--Footer Start-->
     <div class="navbar navbar-inverse">
       <div class="container">

@@ -20,3 +20,26 @@ body {
   padding-bottom: 150px;
   color: #000000;
 }
+
+#table {
+  width: 100%;
+}
+
+#first {
+  padding-right: 15px;
+  margin-bottom: 10px;
+}
+
+label {
+  width: 100%;
+  margin: 0 0 0 0;
+  font-size: 13pt;
+}
+
+#message {
+  padding: 50px;
+}
+
+.btn-default {
+  font-size: 13pt;
+}
