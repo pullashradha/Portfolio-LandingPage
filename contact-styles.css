@@ -7,18 +7,38 @@ body {
   background-color: #000000;
 }
 
-.img-fluid {
-  max-width: 100%;
-  height: auto;
-  padding: 0px;
-  padding-bottom: 50px;
-}
-
 .form {
   padding-left: 15px;
   padding-right: 15px;
-  padding-bottom: 150px;
+  padding-bottom: 100px;
+  padding-top: 150px;
   color: #000000;
+}
+
+#form-response {
+  display: none;
+}
+
+.jumbotron {
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  background-image: url("img/zebras.jpg");
+  margin-bottom: 0px;
+  padding-top: 200px;
+}
+
+#response-text {
+  text-align: center;
+  color: #FFFFFF;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background: rgba(0,0,0,0.75);
+}
+
+#btn {
+  margin-top: 50px;
+  font-size: 20pt;
 }
 
 #table {
@@ -34,10 +54,6 @@ label {
   width: 100%;
   margin: 0 0 0 0;
   font-size: 13pt;
-}
-
-#message {
-  padding: 50px;
 }
 
 .btn-default {
