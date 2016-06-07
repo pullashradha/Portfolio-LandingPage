@@ -38,8 +38,25 @@
     <div class="form">
       <div class="container">
         <form id="content">
-<!-- Name Table Start -->
-          <table id="table">
+<!-- Names Start -->
+          <div class="row">
+            <div class="col-xs-6" id="first">
+              <div class="form-group">
+                <label for="first-name">
+                  <span id="name-padding">First Name</span><input id="first-name" class="form-control" type="text">
+                </label>
+              </div>
+            </div>
+            <div class="col-xs-6" id="second">
+              <div class="form-group">
+                <label for="last-name">
+                  <span id="name-padding">Last Name</span><input id="last-name" class="form-control" type="text">
+                </label>
+              </div>
+            </div>
+          </div>
+
+          <!-- <table id="table">
             <tr>
               <td id="first">
                 <div class="form-group">
@@ -56,8 +73,8 @@
                 </div>
               </td>
             </tr>
-          </table>
-<!-- Name Table End -->
+          </table> -->
+<!-- Names End -->
           <div class="form-group">
             <label for="email">Email</label>
             <input type="email" class="form-control" id="email" name="email"/>
