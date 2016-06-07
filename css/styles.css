@@ -22,7 +22,7 @@ body {
   margin-bottom: 0px;
 }
 
-.container {
+#carousel-stretch {
   background-size: cover;
   width: 100%;
   padding-left: 0px;
