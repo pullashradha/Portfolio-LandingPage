@@ -18,6 +18,21 @@ This website will serve as an online portfolio for the developer. It has separat
 
 No known bugs.
 
+## Specifications
+
+The program should handle: | Example Input | Example Output
+----- | ----- | -----
+The program will input the user's information on the Contact page form and send it to developer's email address | ----- | -----
+The program will send a validation email to the user's email address entered in the form | ----- | -----
+
+## Future Features
+
+HTML | CSS Styling | JavaScript
+Link resume on landing page | Change pictures on the landing page carousel to match the projects showcased on the Portfolio page | Animate the webpage title and corresponding picture when mouse hovers over the items on the Portfolio page
+Add more information about developer on About Me page | Change pictures on Portfolio page to match webpage/webgame listed | -----
+----- | Change layout of Resume page | -----
+----- | Change layout of Contact page to fix empty white space | -----
+
 ## Support and Contact Details
 
 Contact Epicodus for support in running this program.
@@ -31,7 +46,7 @@ Contact Epicodus for support in running this program.
 
 ## Links
 
-General Website: https://pullashradha.github.io/Portfolio-LandingPage/
+General Website: https://pullashradha.github.io/Portfolio-LandingPage
 
 ### License
 
