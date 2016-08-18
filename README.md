@@ -10,7 +10,7 @@ This website serves as an online portfolio for the developer. It has separate we
 
 ## Setup/Installation Requirements
 
-This program can only be accessed on computer with Git and Atom installed.
+This program can only be accessed on a computer with Git and Atom installed.
 
 * Clone this repository
 * Open index.html in Terminal
