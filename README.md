@@ -50,7 +50,7 @@ Contact Epicodus for support in running this program.
 
 ## Links
 
-General Website: https://pullashradha.github.io/ShradhaPortfolio
+Git Hub Webpage: https://pullashradha.github.io/ShradhaPortfolio
 
 ### License
 
