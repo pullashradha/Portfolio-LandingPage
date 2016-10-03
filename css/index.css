@@ -1,7 +1,4 @@
-@import "https://fonts.googleapis.com/css?family=Slabo+27px";
-
 body {
-  font-family: "Slabo 27px", serif;
   color: #000000;
 }
 
@@ -11,14 +8,27 @@ body {
 }
 
 .titles {
-  margin-top: 10%;
+  margin-top: 5%;
   padding-top: 50px
 }
 
+h1 {
+  font-size: 75pt;
+  font-weight: bold;
+  text-align: center;
+}
+
+h2 {
+  font-size: 40pt;
+  text-align: center;
+}
+
+h3 {
+  font-size: 30pt;
+  text-align: center;
+}
+
 .titles button {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
   margin-bottom: 50px;
   font-size: 20pt;
   color: #000000;
@@ -38,18 +48,16 @@ body {
   text-decoration: none;
 }
 
-h1 {
-  font-size: 75pt;
-  font-weight: bold;
-  text-align: center;
+.about-btn {
+  margin-left: 15px;
 }
 
-h2 {
-  font-size: 40pt;
-  text-align: center;
+.portfolio-btn {
+  margin-left: 65px;
 }
 
-h3 {
-  font-size: 30pt;
-  text-align: center;
+.contact-btn {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
