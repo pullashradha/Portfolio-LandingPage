@@ -1,0 +1,55 @@
+@import "https://fonts.googleapis.com/css?family=Slabo+27px";
+
+body {
+  font-family: "Slabo 27px", serif;
+  color: #000000;
+}
+
+.ibis-image img {
+  width: 100%;
+  height: 100vh;
+}
+
+.titles {
+  margin-top: 10%;
+  padding-top: 50px
+}
+
+.titles button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+  font-size: 20pt;
+  color: #000000;
+  background-color: #FFFFFF;
+  border-color: #2E0854;
+  border-width: medium;
+}
+
+.titles button:hover {
+  color: #FFFFFF;
+  background-color: #2E0854;
+  border-color: #2E0854;
+  border-width: medium;
+}
+
+.titles a:hover {
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 75pt;
+  font-weight: bold;
+  text-align: center;
+}
+
+h2 {
+  font-size: 40pt;
+  text-align: center;
+}
+
+h3 {
+  font-size: 30pt;
+  text-align: center;
+}
