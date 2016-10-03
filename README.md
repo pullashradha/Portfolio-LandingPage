@@ -31,7 +31,7 @@ Send a validation email to the user's email address | --- | ---
 HTML | CSS | JavaScript
 ----- | ----- | -----
 Link resume on landing page | Change pictures on the landing page carousel to match the projects showcased on the Portfolio page | Program specs
-Add more information about developer on About Me page | Change pictures on Portfolio page to match webpage/webgame listed | Animate the webpage title and corresponding picture when mouse hovers over the items on the Portfolio page
+Add more information about developer on About Me page | Change pictures on Portfolio page to match webpage/web game listed | Animate the webpage title and corresponding picture when mouse hovers over the items on the Portfolio page
 --- | Change layout of Resume page | ---
 --- | Change layout of Contact page to fix empty white space | ---
 
@@ -44,7 +44,6 @@ Contact Epicodus for support in running this program.
 * HTML
 * CSS
 * Bootstrap
-* Font Awesome
 * jQuery
 * JavaScript
 
