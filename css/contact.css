@@ -2,10 +2,14 @@ body {
   color: #000000;
 }
 
+/*-----------------------------Image Styling-----------------------------*/
+
 .deer-image img {
   width: 100%;
   height: 100vh;
 }
+
+/*-----------------------------Content Styling-----------------------------*/
 
 .content {
   margin-top: 4%;
@@ -21,6 +25,8 @@ h1 {
   text-align: center;
 }
 
+/*-----------------------------Form Styling-----------------------------*/
+
 label {
   font-size: 18pt;
   text-align: center;
@@ -29,6 +35,8 @@ label {
 input, textarea {
   margin-bottom: 15px;
 }
+
+/*-----------------------------Button Styling-----------------------------*/
 
 .content button {
   color: #000000;
