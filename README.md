@@ -23,21 +23,19 @@ No known bugs.
 
 The program should... | Example Input | Example Output
 ----- | ----- | -----
-Input the user's information on the Contact page form and send it to developer's email address | --- | ---
+Input the user's information on the contact page form and send it to developer's email address | --- | ---
 Send a validation email to the user's email address | --- | ---
 
 ## Future Features
 
 HTML | CSS | JavaScript
 ----- | ----- | -----
-Link resume on landing page | Change pictures on the landing page carousel to match the projects showcased on the Portfolio page | Program specs
-Add more information about developer on About Me page | Change pictures on Portfolio page to match webpage/web game listed | Animate the webpage title and corresponding picture when mouse hovers over the items on the Portfolio page
---- | Change layout of Resume page | ---
---- | Change layout of Contact page to fix empty white space | ---
+Link resume on portfolio page | Change pictures on portfolio page to match webpage/web game listed | Program specs
+Add newsletter modal to contact page | --- | Animate the webpage title and corresponding picture when mouse hovers over the items on the Portfolio page
 
 ## Support and Contact Details
 
-Contact Epicodus for support in running this program.
+Contact Shradha Pulla at pullashradha@gmail.com for support in running this program.
 
 ## Technologies Used
 
@@ -46,6 +44,8 @@ Contact Epicodus for support in running this program.
 * Bootstrap
 * jQuery
 * JavaScript
+* Google Fonts
+* Stock Snap (pictures)
 
 ## Links
 

@@ -39,37 +39,36 @@ h1 {
 
 /*-----------------------------Button Styling-----------------------------*/
 
-.content .about-btn, .content .contact-btn {
+.content .about-btn, .content .contact-btn, .content .index-btn {
   margin-bottom: 50px;
   font-size: 20pt;
   color: #000000;
   background-color: #FFFFFF;
   border-color: #2E0854;
   border-width: medium;
+  margin-left: -10px;
+  margin-right: -10px;
 }
 
-.content .about-btn:hover, .content .contact-btn:hover {
+.content .about-btn:hover, .content .contact-btn:hover, .content .index-btn:hover {
   color: #FFFFFF;
   background-color: #2E0854;
   border-color: #2E0854;
   border-width: medium;
 }
 
+.content .index-btn {
+  margin-left: 20px;
+}
+
 .content a:hover {
   text-decoration: none;
-}
-
-.about-btn {
-  margin-left: 60px;
-}
-
-.contact-btn {
-  margin-left: 90px;
 }
 
 .linkedin-btn, .resume-btn, .github-btn {
   background-color: #008080;
   border-color: #008080;
+  border-width: medium;
   color: #FFFFFF;
   margin-bottom: 50px;
   font-size: 20pt;

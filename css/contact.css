@@ -38,14 +38,14 @@ input, textarea {
 
 /*-----------------------------Button Styling-----------------------------*/
 
-.content button {
+.content .about-btn, .content .portfolio-btn {
   color: #000000;
   background-color: #FFFFFF;
   border-color: #2E0854;
   border-width: medium;
 }
 
-.content button:hover {
+.content .about-btn:hover, .content .portfolio-btn:hover {
   color: #FFFFFF;
   background-color: #2E0854;
   border-color: #2E0854;
@@ -59,6 +59,15 @@ input, textarea {
 .contact-btn {
   font-size: 18pt;
   margin-bottom: -20px;
+  background-color: #008080;
+  border-width: medium;
+  color: #FFFFFF;
+}
+
+.contact-btn:hover {
+  background-color: #FFFFFF;
+  border-color: #008080;
+  color: #000000;
 }
 
 .about-btn {
